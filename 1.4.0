@@ -1,0 +1,10 @@
+Requirement already satisfied: executing in d:\chicken-disease-classification--project\venv\lib\site-packages (0.8.2)
+Collecting executing
+  Using cached executing-2.1.0-py2.py3-none-any.whl.metadata (8.9 kB)
+Using cached executing-2.1.0-py2.py3-none-any.whl (25 kB)
+Installing collected packages: executing
+  Attempting uninstall: executing
+    Found existing installation: executing 0.8.2
+    Uninstalling executing-0.8.2:
+      Successfully uninstalled executing-0.8.2
+Successfully installed executing-2.1.0
