@@ -6,11 +6,12 @@ import json
 import joblib
 from ensure import ensure_annotations
 import box
+from box.box import Box
+from box.box_list import BoxList
 from box.config_box import ConfigBox
 from pathlib import Path
 from typing import Any
 import base64
-
 
 
 @ensure_annotations
