@@ -54,7 +54,7 @@ stages:
       - IMAGE_SIZE
       - BATCH_SIZE
     metrics:
-      - score.json:
+      - scores.json:
           cache: false
 
 
