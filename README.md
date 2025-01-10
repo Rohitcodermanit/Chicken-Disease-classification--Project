@@ -16,7 +16,7 @@
 # STEPS:
 Clone the repository
 
-https://github.com/entbappy/Chicken-Disease-Classification--Project
+https://github.com/Rohitcodermanit/Chicken-Disease-classification--Project.git
 # STEP 01- Create a conda environment after opening the repository
 conda create -n cnncls python=3.8 -y
 
